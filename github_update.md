@@ -14,3 +14,7 @@
 ##### 3.提交到远程github库
 
     git push -u origin master
+#### 三.补充
+#####  1.简化展示commit历史
+
+    git log --pretty=oneline
