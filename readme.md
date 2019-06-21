@@ -1,4 +1,4 @@
-#### 1.一个简单的react-native写的emmo, 可以直接clone运行 
+#### 1.一个简单的react-native写的dmmo, 可以直接clone运行 
 #### 2.以下是开发步骤 :https://github.com/guokaigdg/React-native-app-guokai
 
 
